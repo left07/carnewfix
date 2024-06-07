@@ -1,0 +1,22 @@
+.why-us {
+    padding: 40px;
+    background-color: #807e7e;
+  }
+  
+  .why-us h2 {
+    margin-bottom: 20px;
+  }
+  
+  .why-us-cards {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .card {
+    background-color: rgb(138, 134, 134);
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    flex: 1;
+    margin: 10px;
+  }
+  

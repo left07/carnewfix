@@ -1,0 +1,22 @@
+.testimonials {
+    padding: 40px;
+    background-color: #ffffff;
+  }
+  
+  .testimonials h2 {
+    margin-bottom: 20px;
+  }
+  
+  .testimonial-cards {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .testimonial-card {
+    background-color: rgb(96, 142, 152);
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    flex: 1;
+    margin: 10px;
+  }
+  

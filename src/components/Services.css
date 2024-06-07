@@ -1,0 +1,25 @@
+.services {
+    padding: 40px;
+    background-color: #5c687e;
+  }
+  
+  .services h2 {
+    margin-bottom: 20px;
+  }
+  
+  .services ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .services li {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .services li:before {
+    content: "✔️";
+    margin-right: 10px;
+  }
+  

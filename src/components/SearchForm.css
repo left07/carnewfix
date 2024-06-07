@@ -1,0 +1,33 @@
+.search-form {
+    width: 100%;
+    max-width: 1000px;
+    margin: 20px auto;
+    display: flex;
+    gap: 16px;
+    padding: 20px;
+    background: #FFFFFF;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    justify-content: center;
+  }
+  
+  .search-form input,
+  .search-form select,
+  .search-form button {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  .search-form button {
+    background: #5CB85F;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .search-form button:hover {
+    background: #4CAE4C;
+  }
+  

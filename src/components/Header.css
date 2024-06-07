@@ -1,0 +1,33 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #5d5656;
+}
+
+.header-content {
+  max-width: 50%;
+}
+
+.header-content h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.header-content p {
+  margin-bottom: 20px;
+}
+
+.header-content button {
+  padding: 10px 20px;
+  background-color: green;
+  color: rgb(255, 255, 255);
+  border: none;
+  cursor: pointer;
+}
+
+.header-image img {
+  width: 100%;
+  max-width: 400px;
+}

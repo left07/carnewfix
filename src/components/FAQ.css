@@ -1,0 +1,33 @@
+.faq {
+    padding: 40px;
+    background-color: #f9f9f9;
+  }
+  
+  .faq h2 {
+    margin-bottom: 20px;
+  }
+  
+  .faq-item {
+    margin-bottom: 10px;
+  }
+  
+  .faq-content {
+    display: none;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  .faq-item button {
+    width: 100%;
+    text-align: left;
+    padding: 10px;
+    background-color: #b8b4b4;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .faq-item button:hover + .faq-content {
+    display: block;
+  }
+  

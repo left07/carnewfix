@@ -1,0 +1,44 @@
+.hero {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 136px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+  }
+  
+  .hero-content {
+    max-width: 568px;
+  }
+  
+  .hero-content h1 {
+    font-family: 'Arial';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    color: #000000;
+    margin: 0;
+  }
+  
+  .hero-content p {
+    font-family: 'Arial';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    margin-top: 20px;
+  }
+  
+  .hero-img {
+    position: relative;
+  }
+  
+  .hero-img img {
+    width: 704px;
+    height: 407px;
+  }
+  
+
+  
